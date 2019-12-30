@@ -1,0 +1,17 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+.prettierrc
+.eslintrc.json
+.cache
+*.env
+
+# testing
+
+
+# production
+
+
+# misc
+
